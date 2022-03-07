@@ -2,9 +2,6 @@
 
 clear
 
-echo
-figlet -f small Tx Termux Backup | lolcat
-
 termux-setup-storage
 
 pkg install figlet -y
