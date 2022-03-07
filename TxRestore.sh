@@ -19,3 +19,5 @@ figlet -f small Successfully Restored... | lolcat
 echo
 
 echo && printf "TOOL BY MR.THENUX" | lolcat
+echo && printf "PLEASE RESTART TERMUX" | lolcat
+echo
