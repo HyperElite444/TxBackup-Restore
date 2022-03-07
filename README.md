@@ -1,6 +1,6 @@
 # ___Termux Backup & Restore by MR.THENUX___
 
-*Type This on Linux Terminal*👇🏻
+*Type This on Termux*👇🏻
 
 *To Backup*<br>
 _$ pkg update && pkg upgrade <br>
