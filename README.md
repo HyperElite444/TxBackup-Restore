@@ -2,6 +2,7 @@
 
 ### INSTALLATION [ TERMUX ]
 
+<html>
 <ul>
 <li><b><i>Backup</i></b></li>
 <ul>
@@ -13,7 +14,7 @@
 </ul
 </ul>
   <br>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+  </html>
   <br>
 <ul>
 <li><b><i>Restore</i></b></li>
