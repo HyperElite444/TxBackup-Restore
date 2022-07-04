@@ -2,7 +2,7 @@
 
 ### INSTALLATION [ TERMUX ]
 
-### <b><i>Backup</i></b>
+#### <i>Backup</i>
 <ul>
 <li><i>pkg update && pkg upgrade</i></li><br>
 <li><i>pkg install git -y</i></li><br>
@@ -11,7 +11,7 @@
 <li><i>bash TxBackup.sh</i></li>
 </ul
   <br>
-<b><i>Restore</i></b>
+#### <i>Restore</i>
 <ul>
 <li><i>pkg update && pkg upgrade</i></li><br>
 <li><i>pkg install git -y</i></li><br>
