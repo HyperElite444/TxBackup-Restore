@@ -2,7 +2,7 @@
 
 ### INSTALLATION [ TERMUX ]
 
-<b><i>Backup</i></b>
+### <b><i>Backup</i></b>
 <ul>
 <li><i>pkg update && pkg upgrade</i></li><br>
 <li><i>pkg install git -y</i></li><br>
