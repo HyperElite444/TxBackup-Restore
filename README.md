@@ -20,6 +20,8 @@
 <li><i>git clone https://github.com/HyperElite444/TxBackup-Restore</i></li><br>
 <li><i>cd TxBackup-Restore</i></li><br>
 <li><i>bash TxRestore.sh</i></li>
+</ul>
+</ul>
 
 ### Contact For Contribute & Issues 
 
