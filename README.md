@@ -2,7 +2,6 @@
 
 ### INSTALLATION [ TERMUX ]
 
-<html>
 <ul>
 <li><b><i>Backup</i></b></li>
 <ul>
@@ -13,8 +12,6 @@
 <li><i>bash TxBackup.sh</i></li>
 </ul
 </ul>
-  <br>
-  </html>
   <br>
 <ul>
 <li><b><i>Restore</i></b></li>
